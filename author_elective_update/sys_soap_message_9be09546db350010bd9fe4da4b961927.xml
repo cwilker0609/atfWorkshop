@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_soap_message">
+    <sys_soap_message action="DELETE">
+        <access>package_private</access>
+        <authentication_type/>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description/>
+        <download_wsdl>true</download_wsdl>
+        <enable_mutual_auth>false</enable_mutual_auth>
+        <name>Incidents</name>
+        <protocol_profile/>
+        <sys_class_name>sys_soap_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-19 21:50:13</sys_created_on>
+        <sys_id>9be09546db350010bd9fe4da4b961927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incidents</sys_name>
+        <sys_package display_value="ATF Workshop" source="x_186126_atf_works">c087304adb310010bd9fe4da4b96190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF Workshop">c087304adb310010bd9fe4da4b96190b</sys_scope>
+        <sys_update_name>sys_soap_message_9be09546db350010bd9fe4da4b961927</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-19 21:50:13</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <wsdl>https://dev74835.service-now.com/incident.do?WSDL</wsdl>
+        <wsdl_xml/>
+    </sys_soap_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ATF Workshop">c087304adb310010bd9fe4da4b96190b</application>
+        <file_path/>
+        <instance_id>6ac44477dbc0f740b847ac44d496193b</instance_id>
+        <instance_name>dev74835</instance_name>
+        <name>sys_soap_message_9be09546db350010bd9fe4da4b961927</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_soap_message"><sys_soap_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type/><basic_auth_password/><basic_auth_profile/><basic_auth_user/><description/><download_wsdl>true</download_wsdl><enable_mutual_auth>false</enable_mutual_auth><name>Incidents</name><protocol_profile/><sys_class_name>sys_soap_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-19 21:50:13</sys_created_on><sys_id>9be09546db350010bd9fe4da4b961927</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Incidents</sys_name><sys_package display_value="ATF Workshop" source="x_186126_atf_works">c087304adb310010bd9fe4da4b96190b</sys_package><sys_policy/><sys_scope display_value="ATF Workshop">c087304adb310010bd9fe4da4b96190b</sys_scope><sys_update_name>sys_soap_message_9be09546db350010bd9fe4da4b961927</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-19 21:50:13</sys_updated_on><use_basic_auth>false</use_basic_auth><wsdl>https://dev74835.service-now.com/incident.do?WSDL</wsdl><wsdl_xml/></sys_soap_message></record_update>]]></payload>
+        <payload_hash>2073341448</payload_hash>
+        <record_name>Incidents</record_name>
+        <reverted_from/>
+        <source>88873c8adbb10010bd9fe4da4b96191c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-19 21:50:13</sys_created_on>
+        <sys_id>c6015506db350010bd9fe4da4b961982</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f2023c8160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-19 21:50:13</sys_updated_on>
+        <type>SOAP Message</type>
+        <update_guid>02015506453500101d57548587de1482</update_guid>
+        <update_guid_history>02015506453500101d57548587de1482:2073341448</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-20 01:01:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_soap_message">sys_soap_message</sys_db_object>
+        <sys_id>022d441d1b0544ec80d8db4d3fc15e84</sys_id>
+        <sys_metadata>9be09546db350010bd9fe4da4b961927</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incidents</sys_name>
+        <sys_package display_value="ATF Workshop" source="x_186126_atf_works">c087304adb310010bd9fe4da4b96190b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ATF Workshop">c087304adb310010bd9fe4da4b96190b</sys_scope>
+        <sys_scope_delete display_value="">11bf86d58fdd40949252435cb82a87e4</sys_scope_delete>
+        <sys_update_name>sys_soap_message_9be09546db350010bd9fe4da4b961927</sys_update_name>
+        <sys_update_version display_value="sys_soap_message_9be09546db350010bd9fe4da4b961927">c6015506db350010bd9fe4da4b961982</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-20 01:01:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
