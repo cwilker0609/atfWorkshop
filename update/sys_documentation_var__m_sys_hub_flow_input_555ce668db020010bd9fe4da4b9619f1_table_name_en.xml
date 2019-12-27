@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="table_name" label="Table Name" language="en" table="var__m_sys_hub_flow_input_555ce668db020010bd9fe4da4b9619f1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>table_name</element>
+            <help/>
+            <hint/>
+            <label>Table Name</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_555ce668db020010bd9fe4da4b9619f1</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-27 23:30:54</sys_created_on>
+            <sys_id>3ec4bae0db420010bd9fe4da4b961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table Name</sys_name>
+            <sys_package display_value="ATF Workshop" source="x_186126_atf_works">c087304adb310010bd9fe4da4b96190b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ATF Workshop">c087304adb310010bd9fe4da4b96190b</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_555ce668db020010bd9fe4da4b9619f1_table_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-27 23:30:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

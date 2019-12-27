@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="promotion_amount" table="x_186126_atf_works_promotion_approval_matrix">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="pay_increase_limit" table="x_186126_atf_works_promotion_approval_matrix">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Promotion Amount</column_label>
+        <column_label>Pay Increase Limit</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,7 +27,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>promotion_amount</element>
+        <element>pay_increase_limit</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-12-27 22:59:33</sys_created_on>
-        <sys_id>67ecaea8db020010bd9fe4da4b961928</sys_id>
+        <sys_created_on>2019-12-27 23:07:50</sys_created_on>
+        <sys_id>725f6e6cdb020010bd9fe4da4b961931</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Promotion Amount</sys_name>
+        <sys_name>Pay Increase Limit</sys_name>
         <sys_package display_value="ATF Workshop" source="x_186126_atf_works">c087304adb310010bd9fe4da4b96190b</sys_package>
         <sys_policy/>
         <sys_scope display_value="ATF Workshop">c087304adb310010bd9fe4da4b96190b</sys_scope>
-        <sys_update_name>sys_dictionary_x_186126_atf_works_promotion_approval_matrix_promotion_amount</sys_update_name>
+        <sys_update_name>sys_dictionary_x_186126_atf_works_promotion_approval_matrix_pay_increase_limit</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-12-27 22:59:33</sys_updated_on>
+        <sys_updated_on>2019-12-27 23:07:50</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

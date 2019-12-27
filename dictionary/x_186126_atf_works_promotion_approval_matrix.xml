@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Promotion Approval Matrix" max_length="40" name="x_186126_atf_works_promotion_approval_matrix" type="collection">
         <element label="Approver" max_length="32" name="approver" reference="sys_user" type="reference"/>
-        <element label="Promotion Amount" max_length="20" name="promotion_amount" type="decimal"/>
+        <element label="Pay Increase Limit" max_length="20" name="pay_increase_limit" type="decimal"/>
         <index name="index">
             <element name="approver"/>
         </index>
